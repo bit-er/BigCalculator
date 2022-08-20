@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CString.dir/main.cpp.o -o CString 
